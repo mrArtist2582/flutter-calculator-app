@@ -15,5 +15,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 The Apk link is bellow:
- https://github.com/mrArtist2582/flutter-calculator-app/releases/download/v1.0/app-release.apk
+ [https://github.com/mrArtist2582/flutter-calculator-app/releases/download/v1.0/app-release.apk](https://github.com/mrArtist2582/flutter-calculator-app/releases/download/version/app-release.apk)
 
